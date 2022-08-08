@@ -110,6 +110,13 @@ ul li{
     
 }
 
+.container{
+    background-color: paleturquoise;
+    position: relative;
+    max-width:3000px;
+    
+}
+
 #Marx {
         display: block;
         width : 20rem;
