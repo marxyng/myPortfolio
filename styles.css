@@ -102,15 +102,7 @@ font-size: 2rem;
     width: 5rem;
 }
 
-.container{
-    background-color: paleturquoise;
-    position: relative;
-    margin: 0 ;
-    padding:0;
-    width: 150%;
-   
-    
-}
+
 
 ul li{
     display:inline-block;
