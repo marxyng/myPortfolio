@@ -105,8 +105,9 @@ font-size: 2rem;
 .container{
     background-color: paleturquoise;
     padding-top: 2rem;
-    
-    width: 100%;
+    margin: 0 auto; 
+    width: 960px;
+   
     
 }
 
