@@ -20,6 +20,8 @@ color: paleturquoise;
 .heading{
     color:paleturquoise;
     font-size: 1rem;
+    margin: 0;
+    padding: 0;
 }
 
 
